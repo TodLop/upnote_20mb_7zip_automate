@@ -26,7 +26,7 @@ This Python-based GUI application is designed to help you automatically split an
 3. **Clone or Download this Repository:**
    - Clone the repository using `git`:
      ```bash
-     git clone https://github.com/your-username/7zip-compression-tool-for-upnote.git
+     git clone https://github.com/TodLop/7zip-compression-tool-for-upnote.git
      ```
    - Or download the ZIP file and extract it.
 
